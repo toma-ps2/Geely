@@ -1,0 +1,453 @@
+
+@media screen and (max-width:1219px) {
+    .header2{
+        padding: 5px 130px 5px 130px;
+    }
+    .contact__btn{
+        left: calc(10px);
+    }
+}
+@media screen and (max-width:1190px){
+    .banner__box{
+        right: calc(200px);
+    }
+}
+
+@media screen and (max-width:1179px) {
+    .header{
+        padding: 20px 130px 20px 130px;
+    }
+    .header2{
+        padding: 5px 120px;
+    }
+    .header2__menu2{
+        margin-left: 210px;
+    }
+    .banner__box{
+        right: calc(155px);
+    }
+    .color__war{
+        left: calc(55%);
+    }
+    .color__war img{
+        height: 55px;
+    }
+    .color__text{
+        right: calc(60px);
+        top: calc(120px);
+    }
+    .contact__logo{
+        left: calc(240px);
+    }
+    .contact__btn{
+        left: calc(10px);
+    }
+    .slick-dots{
+        margin: -15px;
+    }
+}
+@media screen and (max-width:1120px){
+    .header{
+        padding: 20px 35px 20px 35px;
+    }
+    .header2{
+        padding: 5px 35px;
+    }
+    .banner__box{
+        right: calc(120px);
+    }
+    .color__car{
+        top: calc(135px);
+    }
+    .color__car img{
+        width: 85px;
+    }
+    .slick-dots{
+        margin: -20px;
+    }
+    .color__car_item.slick-slide img{
+        height: 185px;
+    }
+}
+@media screen and (max-width:1088px){
+    .banner__box{
+        right: calc(90px);
+    }
+    .color__text{
+        right: calc(40px);
+    }
+}
+@media screen and (max-width:1053px){
+    .contact__logo{
+        left: calc(235px);
+        font-size: 62px;
+    }
+    .banner__box{
+        right: calc(80px);
+    }
+}
+@media screen and (max-width:1025px){
+    .banner__box{
+        right: calc(65px);
+    }
+    .contact__text p{
+        font-size: 26px;
+        top: calc(-23%);
+    }
+    .contact__box2 img{
+        height: 35px;
+        top: calc(-13%);
+    }
+}
+@media screen and (max-width:1020px){
+    .contact{
+        top: 120%;
+        left:-105%;
+    }
+    .contact__logo{
+        left: calc(300px);
+        font-size: 66px;
+        transition: all 500ms;
+    }
+    .contact__logo:hover{
+        transform: rotate(0deg);
+        left: calc(400px);
+    }
+    .contact__text p{
+        font-size: 35px;
+        top: calc(-23%);
+    }
+    .contact__box2 img{
+        height: 45px;
+        top: calc(-5%);
+    }
+    .contact__items{
+        font-size: 14px;
+        top:calc(10%);
+    }
+    .color{
+        width: 100%;
+        margin: 10px 0;
+    }
+    .color__war{
+        left: calc(40%);
+        top: calc(15%);
+    }
+    .color__war img{
+        height: 70px;
+    }
+    .color__text{
+        font-size: 13px;
+        top: calc(70px);
+        right: calc(190px);
+    }
+    .color__car{
+        top: calc(80px);
+        left: calc(180px);
+    }
+    .color__car img{
+        width: 120px;
+    }
+    .color__car_item.slick-slide img{
+        height: 240px;
+    }
+    .color__car_slider{
+        left: 38%;
+    }
+    .slick-dots li{
+        z-index: 20;
+    }
+    .banner__box{
+        right: calc(40px);
+    }
+    .color__car_slider.slick-initialized.slick-slider.slick-dotted{
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:984px) {
+      .header__btn{
+        padding: 5px 35px;
+        margin-right: 20px;
+      }
+      .header__address,.header__phone{
+        display: none;
+    }
+    .header2__menu2{
+        display: none;
+        margin: 0;
+      }
+    .menu-mobile{
+        display: block;
+    }
+    .wrapper.open .menu-mobile{
+        transform: translateX(0);
+        transition: all 1s;
+      }
+      .banner__box{
+        right: calc(20px);
+    }
+    .banner__box img{
+        height: 45px;
+    }
+}
+@media screen and (max-width:932px){
+    .banner__box{
+        top: calc(200px);
+        left: 350px;
+        transition: all 500ms;
+    }
+    .banner__box:hover{
+        transform: scale(1.1);
+    }
+    .banner__box img{
+        height: 30px;
+    }
+}
+@media screen and (max-width:870px){
+    .color__war{
+        left: calc(45%);
+    }
+    .color__war img{
+        height: 70px;
+    }
+    .color__text{
+        right: calc(150px);
+    }
+    .color__car{
+        top: calc(80px);
+        left: calc(130px);
+    }
+}
+@media screen and (max-width:779px){
+    .color__car_slider{
+        left: 33%;
+    }
+    .color__car_item.slick-slide img{
+        height: 200px;
+    }
+    .color__text{
+        top: calc(90px);
+        right: calc(130px);
+    }
+}
+@media screen and (max-width:718px){
+    .color__car_slider{
+        left: 30%;
+    }
+    .color__car_item.slick-slide img{
+        height: 170px;
+    }
+    .color__text{
+        top: calc(100px);
+        right: calc(190px);
+    }
+    .color__car{
+        top: calc(70px);
+        left: calc(50px);
+    }
+    .color__war{
+        left: calc(33%);
+        top: calc(20%);
+    }
+    .color__war img{
+        height: 60px;
+    }
+    .banner__btn2 p{
+        left: calc(10px);
+    }
+    .banner__btn2_btn{
+        left: calc(10px);
+        width: 120px;
+        padding: 5px 15px;
+    }
+    .banner__btn2_btn2 {
+        left: calc(170px);
+        width: 140px;
+        padding: 5px 10px
+    }
+    .banner__btn2_arrow{
+        display: none;
+    }
+    .banner__checkbox{
+        left: calc(30px);
+    }
+    .contact__logo{
+        font-size: 60px;
+        left: calc(270px);
+    }
+    .color__car{
+        top: calc(90px);
+    }
+    .color__car img{
+        width: 90px;
+    }
+    .banner__title2{
+        top: 100px;
+        left: 30px;
+    }
+    .banner__btn3{
+        top: calc(370px);
+        left: calc(30px);
+    }
+    .contact__logo:hover{
+        transform: rotate(0);
+    }
+}
+@media screen and (max-width:650px){
+    .color__text{
+        top: calc(120px);
+        right: calc(170px);
+    }
+    .color__war img{
+        height: 50px;
+    }
+
+}
+
+@media screen and (max-width:615px) {
+    .header__logo img{
+        height: 30px;
+    }
+    .header__btn{
+        margin-right: 0;
+        padding: 5px 20px;
+    }
+    .banner__title p, h1{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:590px) {
+    .color__text{
+        top: calc(150px);
+        right: calc(160px);
+        font-size: 10px;
+    }
+    .color__war{
+        top: calc(30%);
+        left: calc(30%);
+    }
+    .color__war img{
+        height: 40px;
+    }
+    .color__car{
+        top: calc(140px);
+        left: calc(10px);
+    }
+    .color__car img{
+        width: 70px;
+    }
+}
+@media screen and (max-width:488px) {
+    .header__logo img{
+        height: 30px;
+    }
+    .header__btn{
+        margin-right: 0;
+        padding: 5px 20px;
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    .header2__menu a{
+        padding: 5px;
+        font-size: 11px;
+    }
+    .color__text{
+        top: calc(150px);
+        right: calc(120px);
+        font-size: 8px;
+    }
+    .color__war{
+        top: calc(30%);
+        left: calc(30%);
+    }
+    .color__war img{
+        height: 30px;
+    }
+    .color__car{
+        top: calc(150px);
+        left: calc(10px);
+    }
+    .color__car img{
+        width: 60px;
+    }
+    .color__car_item.slick-slide img{
+        height: 120px;
+    }
+    .slick-dots{
+        margin: 5px;
+    }
+    .banner__box{
+        left: 100px;
+    }
+    .contact__logo{
+        transform: rotate(0deg);
+        top: calc(250%);
+        left: calc(5%);
+    }
+    .banner__down img{
+        left: calc(20%);
+        top: calc(100%);
+    }
+}
+@media screen and (max-width:450px){
+    .banner__title{
+        left: 10px;
+    }
+    .contact__items{
+        font-size: 12px;
+        width: 300px;
+    }
+    .contact__btn{
+        width: 180px;
+    }
+    .contact__btn img{
+        left: calc(230px);
+    }
+}
+
+@media screen and (max-width:398px){
+    .color__text{
+        top: calc(170px);
+        right: calc(70px);
+        font-size: 7px;
+    }
+    .color__war{
+        top: calc(35%);
+        left: calc(30%);
+    }
+    .color__war img{
+        height: 20px;
+    }
+    .color__car{
+        top: calc(160px);
+        left: calc(10px);
+    }
+    .color__car img{
+        width: 55px;
+    }
+    .color__car_item.slick-slide img{
+        height: 110px;
+    }
+    .slick-dots{
+        margin: 2px;
+    }
+}
+@media screen and (max-width:340px){
+    .header__logo img{
+        height: 30px;
+    }
+    .header__btn{
+        padding: 5px 20px;
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    .header2__menu a{
+        padding: 5px;
+        font-size: 10px;
+    }
+    .banner__btn2_btn2{
+        width: 140px;
+        padding: 5px 4px;
+    }
+}
